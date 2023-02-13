@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AE998011-113E-426C-B44B-BC80BD1369DD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0E6FE2B-83CE-4A6F-B7C0-871C915A5203"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Destini-iOS13/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3CD555B-CAC4-41B9-8789-03B3FF8A9C28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Destini-iOS13/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F3CD555B-CAC4-41B9-8789-03B3FF8A9C28 - 1b71335a737e7cef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.AppDelegate.__allocating_init() -&gt; Destini_iOS13.AppDelegate"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Administrator/Desktop/IOS%20Development/Destini-iOS13/Destini-iOS13/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "F3CD555B-CAC4-41B9-8789-03B3FF8A9C28 - 5fee62e4705de623"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.AppDelegate.init() -&gt; Destini_iOS13.AppDelegate"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Administrator/Desktop/IOS%20Development/Destini-iOS13/Destini-iOS13/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "F3CD555B-CAC4-41B9-8789-03B3FF8A9C28 - 4cb43f05f6e8adee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Destini_iOS13.AppDelegate.__deallocating_deinit"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Administrator/Desktop/IOS%20Development/Destini-iOS13/Destini-iOS13/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F3CD555B-CAC4-41B9-8789-03B3FF8A9C28 - 228a6b51974ab631"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Destini-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Administrator/Desktop/IOS%20Development/Destini-iOS13/Destini-iOS13/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
